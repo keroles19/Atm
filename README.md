@@ -30,6 +30,11 @@ after clone/ download the project file, `cd` into the project directory and foll
 - run `php artisan db:seed` to run database seeds.
 - run `php artisan serve`   to run project.
 
+### Login Credentials
+
+- CARD NUMBER `1234567890123[0-9]`
+- Pin         `123456`
+
 ### NOTE
 if you get any errors in this step, when seeding the database, realted to exsisting data, please run the following:
 - run `chmod ugo=rwx storage -R` to give permissions to storage folder for read/wirte actions.
