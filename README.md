@@ -3,7 +3,8 @@
 # preview
 ![Screenshot from 2023-08-14 02-49-10](https://github.com/keroles19/Atm/assets/36054945/482d566f-6956-4687-8e94-7569312173ab)
 
-<video src="https://user-images.githubusercontent.com/36054945/260335481-00098047-b42a-4afc-be17-fe5c11a1d117.mp4"></video>
+https://github.com/keroles19/Atm/assets/36054945/b4f2d5df-9cbe-470d-b98c-519abc3148b3
+
 ## BY
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)](https://github.com/keroles19/)
 [![mysql](https://img.shields.io/badge/-mysql-005C84?style=flat-square&logo=mysql&logoColor=white)](https://github.com/keroles19/)
