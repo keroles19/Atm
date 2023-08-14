@@ -28,7 +28,7 @@ after clone/ download the project file, `cd` into the project directory and foll
     - run `php artisan key:generate` to generate new app key.
 - run `php artisan migrate` to run database migration.
 - run `php artisan db:seed` to run database seeds.
-- run `php artisan serve` to run project.
+- run `php artisan serve`   to run project.
 
 ### NOTE
 if you get any errors in this step, when seeding the database, realted to exsisting data, please run the following:
@@ -41,12 +41,8 @@ you can run the database commands all together like:
 `php artisan migrate:fresh --seed` this will migrate and seed the database.
 
 ## TESTING
-- runing all tests: `composer test`
-- running test with coverage report: `composer test:coverage`
+- runing all tests: `php artisan test`
 
-
-## Clearing configurations and Cache
-- run `composer clear:cache`
 
 ## Using docker
 - install `docker` and `docker-compose`, for Linux [ubuntu] OS, you can user `docker-install.sh` file inside project folder, for windows and mac you can setup docker desktop
