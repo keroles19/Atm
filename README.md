@@ -2,7 +2,17 @@
 
 # preview
 ![Screenshot from 2023-08-14 02-49-10](https://github.com/keroles19/Atm/assets/36054945/482d566f-6956-4687-8e94-7569312173ab)
-<video src="https://github-production-user-asset-6210df.s3.amazonaws.com/36054945/260333398-7bb3c4d3-f1f2-4994-b629-dc4a6155357f.webm"></video>
+
+<video src="https://user-images.githubusercontent.com/36054945/260335481-00098047-b42a-4afc-be17-fe5c11a1d117.mp4"></video>
+## BY
+[![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)](https://github.com/keroles19/)
+[![mysql](https://img.shields.io/badge/-mysql-005C84?style=flat-square&logo=mysql&logoColor=white)](https://github.com/keroles19/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/keroles19/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/keroles19/)](https://github.com/keroles19/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/keroles19/)](https://github.com/keroles19/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/keroles19/)](https://github.com/keroles19/)
+[![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white&link=https://github.com/keroles19/)](https://github.com/keroles19/)
+[![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/keroles19/)](https://github.com/keroles19/)
 
 # Requirments:
 - PHP 8.1 or later.
